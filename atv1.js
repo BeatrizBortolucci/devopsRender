@@ -1,3 +1,5 @@
+//Calcular a temperatura média do planeta
+
 var tempMediaAtual = Number(prompt(`Qual é a temperatura média atual? `));
 
 var quantAnos = Number(prompt(`Qual é a quantidade de anos? `));
