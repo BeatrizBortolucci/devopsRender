@@ -1,3 +1,1 @@
 FROM openjdk
-WORKDIR src
-
